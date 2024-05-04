@@ -1,0 +1,6 @@
+podemos abrir la caperta de nuesto futuro repositorio gitQfasil-es de dos formas
+
+1. con Git bash here y te abrira una terminal CMD ayi escribes code y esto ara que la capeta se abra en vscode
+bas a los 3 puntos y abres nueva terminal por defecto te abrira powershell pero tu abriras bash 
+
+2 la segunda forma es abrirla directamente desde vscode.

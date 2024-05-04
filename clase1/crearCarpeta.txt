@@ -1,2 +1,2 @@
-crea una carpeta en cualquier lugar, pole un nombre corto
-crea 5 carjpetas  y en cada   crea un archivo *.txt, en c/u
+crea una carpeta en cualquier lugar, pole un nombre corto yo la  llame gitQfasil-es
+crea 5 carjpetas (clase#) y en cada   crea un archivo .txt, en c/u yo las yo   a todos los llame perro.txt
